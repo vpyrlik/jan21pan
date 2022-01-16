@@ -1,0 +1,34 @@
+---
+title: "Допглавы экономики II, январь-февраль 2021"
+subtitle: "Занятие 0. Тема"
+author: "В. Н. Пырлик"
+date: "21 января 2021"
+output:
+  xaringan::moon_reader:
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    lib_dir: libs
+    css: [libs/main.css, libs/fonts.css, libs/animate.css]
+    chakra: libs/remark-latest.min.js
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+      highlightLines: true
+      ratio: "8:5"
+---
+class: section, animated, zoomIn
+
+# ...
+
+## ...
+
+---
+class: animated, fadeIn
+
+## ...
+
+---
+class: section, animated, zoomIn
+
+#Thank you!
+
+### See you next time
